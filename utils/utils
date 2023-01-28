@@ -1,0 +1,22 @@
+INFO:root:we are hitting URL - https://swapi.dev/api/people/1/
+INFO:root:success - 200
+INFO:root:we are hitting URL - https://swapi.dev/api/people/1/
+INFO:root:success - 200
+INFO:root:we are hitting URL - https://swapi.dev//api/planets/1
+INFO:root:success - 200
+INFO:root:we are hitting URL - https://swapi.dev//api/films/1
+INFO:root:success - 200
+INFO:root:we are hitting URL - https://swapi.dev//api/vehicles/1
+ERROR:root:there are issues fetching details
+INFO:root:we are hitting URL - https://swapi.dev//api/planets/1
+INFO:root:success - 200
+INFO:root:we are hitting URL - https://swapi.dev//api/films/1
+INFO:root:success - 200
+INFO:root:we are hitting URL - https://swapi.dev//api/vehicles/1
+ERROR:root:there are issues fetching details
+INFO:root:we are hitting URL - https://swapi.dev//api/planets/1
+INFO:root:success - 200
+INFO:root:we are hitting URL - https://swapi.dev//api/films/1
+INFO:root:success - 200
+INFO:root:we are hitting URL - https://swapi.dev//api/vehicles/1
+ERROR:root:there are issues fetching details
